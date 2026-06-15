@@ -1,0 +1,155 @@
+{
+  "meta": {
+    "last_updated": "2026-06-15",
+    "version": "1.1",
+    "game": "GeoTapper",
+    "total_questions": 12,
+    "structure": "separated_languages"
+  },
+  "faq": [
+    {
+      "id": 1,
+      "category": "general",
+      "question": {
+        "de": "Was ist GeoTapper?",
+        "en": "What is GeoTapper?"
+      },
+      "answer": {
+        "de": "GeoTapper ist ein modernes, tap-basiertes Geografie-Lernspiel. Du tippst auf einer interaktiven Weltkarte, um Länder, Flaggen, Ländernamen oder Hauptstädte zuzuordnen. Das Spiel ist rundenbasiert, motivierend und für alle Altersgruppen geeignet.",
+        "en": "GeoTapper is a modern, tap-based geography learning game. You tap on an interactive world map to assign countries, flags, country names or capitals. The game is round-based, motivating and suitable for all ages."
+      }
+    },
+    {
+      "id": 2,
+      "category": "gameplay",
+      "question": {
+        "de": "Wie funktioniert das Spiel?",
+        "en": "How does the game work?"
+      },
+      "answer": {
+        "de": "Jedes Spiel besteht aus 3 Runden mit je 5 Ländern (insgesamt 15 Länder). Du wählst zuerst eine Schwierigkeitsstufe und tippst dann die richtigen Zuordnungen auf der Karte. Nach jeder Runde siehst du eine kurze Zusammenfassung.",
+        "en": "Every game consists of 3 rounds with exactly 5 countries each (15 countries total). First choose a difficulty level, then tap the correct assignments on the interactive map. After each round you see a short summary."
+      }
+    },
+    {
+      "id": 3,
+      "category": "gameplay",
+      "question": {
+        "de": "Welche Spielmodi gibt es?",
+        "en": "What game modes are available?"
+      },
+      "answer": {
+        "de": "Es gibt vier Modi: Länder-Tapper, Flaggen-Tapper, Namen-Tapper und Hauptstadt-Tapper. In jedem Modus tippst du die passenden Elemente auf der interaktiven Karte.",
+        "en": "There are four modes: Country Tapper, Flag Tapper, Name Tapper and Capital Tapper. In each mode you tap the matching elements on the interactive map."
+      }
+    },
+    {
+      "id": 4,
+      "category": "difficulty",
+      "question": {
+        "de": "Wie funktionieren die Schwierigkeitsstufen?",
+        "en": "How do the difficulty levels work?"
+      },
+      "answer": {
+        "de": "Die Schwierigkeit basiert auf einer kategorisierten Länder-Datenbank und nicht nur auf der Anzahl der Länder. Einfach enthält bekannte große Länder, Fortgeschritten mittelgroße und Experte kleine Inselstaaten sowie Mikrostaaten mit komplexen Umrissen. Jede Runde hat immer genau 5 Länder.",
+        "en": "Difficulty is based on a categorized country database rather than just quantity. Easy contains well-known large countries, Advanced medium-sized ones, and Expert small island nations and microstates with complex shapes. Every round always has exactly 5 countries."
+      }
+    },
+    {
+      "id": 5,
+      "category": "difficulty",
+      "question": {
+        "de": "Wie werden kleine Inselstaaten und Mikrostaaten dargestellt?",
+        "en": "How are small island states and microstates displayed?"
+      },
+      "answer": {
+        "de": "Sehr kleine Länder erhalten spezielle Behandlung: deutlich vergrößerte Tap-Zonen, automatisches Zoomen mit großer Beschriftung, prominente Flaggen- und Namensanzeige sowie optionale Hinweise nach Fehlversuchen. So bleiben auch winzige Länder spielbar und lehrreich.",
+        "en": "Very small countries receive special treatment: significantly enlarged tap zones, automatic zoom with large labels, prominent flag and name display, and optional hints after incorrect attempts. This keeps even tiny countries playable and educational."
+      }
+    },
+    {
+      "id": 6,
+      "category": "achievements",
+      "question": {
+        "de": "Was sind die Errungenschaften und Medaillen?",
+        "en": "What are the achievements and medals?"
+      },
+      "answer": {
+        "de": "Du sammelst schöne Medaillen in den Rängen Holz → Bronze → Silber → Gold → Platin → Diamant → Legendär. Fortschritt wird durch einzigartige entdeckte Länder, Gesamt-Taps und abgeschlossene Runden auf höheren Schwierigkeitsstufen gemessen. Bei höheren Medaillen gibt es motivierende Fakten über Entdecker wie Humboldt oder Magellan.",
+        "en": "You collect beautiful medals in the ranks Wood → Bronze → Silver → Gold → Platinum → Diamond → Legendary. Progress is measured by unique countries discovered, total correct taps and completed rounds on higher difficulty levels. Higher medals unlock motivating facts about explorers such as Humboldt or Magellan."
+      }
+    },
+    {
+      "id": 7,
+      "category": "general",
+      "question": {
+        "de": "Wie viele Länder gibt es insgesamt?",
+        "en": "How many countries are included in total?"
+      },
+      "answer": {
+        "de": "GeoTapper enthält alle 195 anerkannten souveränen Staaten der Welt (Stand 2026), kategorisiert nach Schwierigkeit.",
+        "en": "GeoTapper contains all 195 recognized sovereign states in the world (as of 2026), categorized by difficulty."
+      }
+    },
+    {
+      "id": 8,
+      "category": "pricing",
+      "question": {
+        "de": "Ist GeoTapper kostenlos?",
+        "en": "Is GeoTapper free?"
+      },
+      "answer": {
+        "de": "Ja, das Spiel ist komplett kostenlos. Es gibt keine Werbung und keine In-App-Käufe.",
+        "en": "Yes, the game is completely free to play. There are no ads and no in-app purchases."
+      }
+    },
+    {
+      "id": 9,
+      "category": "privacy",
+      "question": {
+        "de": "Werden meine Daten gespeichert?",
+        "en": "Are my data stored?"
+      },
+      "answer": {
+        "de": "Dein Fortschritt wird lokal in deinem Browser (localStorage) gespeichert. Es werden keine Daten an Server gesendet und keine persönlichen Daten erhoben.",
+        "en": "Your progress is saved locally in your browser (localStorage). No data is sent to servers and no personal data is collected."
+      }
+    },
+    {
+      "id": 10,
+      "category": "technical",
+      "question": {
+        "de": "Kann ich offline spielen?",
+        "en": "Can I play offline?"
+      },
+      "answer": {
+        "de": "Ja! Sobald das Spiel einmal geladen wurde, funktioniert es vollständig offline.",
+        "en": "Yes! Once the game has loaded once, it works completely offline."
+      }
+    },
+    {
+      "id": 11,
+      "category": "technical",
+      "question": {
+        "de": "Auf welchen Geräten kann ich spielen?",
+        "en": "On which devices can I play?"
+      },
+      "answer": {
+        "de": "GeoTapper funktioniert auf Desktop, Tablet und Smartphone im Browser. Die Bedienung ist komplett touch-optimiert.",
+        "en": "GeoTapper works on desktop, tablet and smartphone in the browser. The controls are fully touch-optimized."
+      }
+    },
+    {
+      "id": 12,
+      "category": "future",
+      "question": {
+        "de": "Gibt es Pläne für weitere Sprachen oder Modi?",
+        "en": "Are there plans for more languages or modes?"
+      },
+      "answer": {
+        "de": "Ja. Wir planen weitere Sprachen, zusätzliche Spielmodi und Community-Features. Vorschläge sind jederzeit willkommen!",
+        "en": "Yes. We plan additional languages, new game modes and community features. Suggestions are always welcome!"
+      }
+    }
+  ]
+}
