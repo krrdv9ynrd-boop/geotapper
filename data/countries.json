@@ -1183,6 +1183,19 @@
     "lon": 127.7669
   },
   {
+    "iso2": "XK",
+    "iso3": "XKX",
+    "name_en": "Kosovo",
+    "name_de": "Kosovo",
+    "capital_en": "Pristina",
+    "capital_de": "Pristina",
+    "continent": "Europe",
+    "difficulty": "medium",
+    "is_microstate": false,
+    "lat": 42.66,
+    "lon": 21.16
+  },
+  {
     "iso2": "KW",
     "iso3": "KWT",
     "name_en": "Kuwait",
@@ -2208,6 +2221,19 @@
     "is_microstate": false,
     "lat": 34.8021,
     "lon": 38.9968
+  },
+  {
+    "iso2": "TW",
+    "iso3": "TWN",
+    "name_en": "Taiwan",
+    "name_de": "Taiwan",
+    "capital_en": "Taipei",
+    "capital_de": "Taipeh",
+    "continent": "Asia",
+    "difficulty": "medium",
+    "is_microstate": false,
+    "lat": 25.03,
+    "lon": 121.56
   },
   {
     "iso2": "TJ",
